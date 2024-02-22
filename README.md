@@ -50,6 +50,6 @@ Licensed under the MIT License
 
 ## Repository's
 
-GitHub Repository URL: 
+GitHub Repository URL: https://github.com/KayaM17/07-daily-planner-app
 
-Deployed Web Application URL:
+Deployed Web Application URL: https://kayam17.github.io/07-daily-planner-app/
