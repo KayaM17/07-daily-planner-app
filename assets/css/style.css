@@ -49,12 +49,12 @@ header {
 }
 
 .present {
-  background-color: #d3d3d3;
+  background-color: #ff6961;
   color: white;
 }
 
 .future {
-  background-color: #d3d3d3;
+  background-color: #77dd77;
   color: white;
 }
 
