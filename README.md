@@ -1,27 +1,23 @@
-# Unit 07: Daily Planner App
+# Daily Planner App
 
-Work Day Scheduler
+Welcome to my Daily Planner App! I'm excited to share how I built this application to help users organize their daily tasks using HTML, CSS, and JavaScript.
 
-## Description
+## Introduction
 
-Create a simple calendar application that allows a user to save events for each hour of the day by modifying starter code. This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery.
+In this project, I developed a Daily Planner App to assist users in managing their daily tasks and schedules effectively. As someone who values productivity and organisation, I wanted to create a simple yet powerful tool to streamline the planning process and enhance productivity.
 
 ## User Story
 
 ```md
-AS AN employee with a busy schedule
-I WANT to add important events to a daily planner
-SO THAT I can manage my time effectively
+As a person with a busy schedule,
+I want to add important events to a daily planner so that I can manage my time effectively.
 ```
 
+## Technologies Used
 
-## Summary of Changes
-
-* Updated Readme & added Git + deployed URl.
-* Created js folder.
-* Added clear all function to remove itmes in planner.
-* Added screenshot of planner laptop view.
-
+- **HTML:** Used to structure the content of the Daily Planner App.
+- **CSS:** Utilized for styling the user interface and enhancing the visual appeal.
+- **JavaScript:** Implemented for the interactive features and functionality of the app.
 
 ## Mock-Up
 
@@ -29,27 +25,20 @@ Note: The following animation demonstrates the application functionality:
 
 ![alt text](assets/images/05-third-party-apis-homework-demo.gif)
 
+## Development Process
 
+I began by designing the user interface and layout of the Daily Planner App using HTML and CSS. I focused on creating a clean and intuitive design that is easy to navigate and visually appealing.
 
-Note: This is a screenshot of the deployed planner on Laptop screen.
+One of the challenges I faced during development was implementing the functionality to add, edit, and delete tasks dynamically. JavaScript played a crucial role in achieving this functionality, but I had to overcome some hurdles in managing the task data and updating the user interface accordingly.
 
-![alt text](<assets/images/work planner screnshoot.png>)
+Another challenge was ensuring that the app remains responsive and user-friendly across different devices and screen sizes. I spent time testing and refining the CSS styling to ensure a consistent and enjoyable user experience across all platforms.
 
+## Future Improvements
 
-## References
+In the future, I plan to enhance the Daily Planner App by adding features such as reminders, task prioritization, and synchronization with calendar applications. I also aim to improve the design and usability based on user feedback and incorporate advanced JavaScript techniques to optimize performance.
 
-W3 Schools - Tutorials
+## Conclusion
 
-Youtube - Tutorials
+Developing this Daily Planner App was a rewarding experience that allowed me to combine my passion for productivity with my skills in web development. I'm proud of the final product and hope that it helps users stay organized and accomplish their daily goals.
 
-Day.js - https://day.js.org/docs/en/display/format
-
-## License
-
-Licensed under the MIT License
-
-## Repository's
-
-GitHub Repository URL: https://github.com/KayaM17/07-daily-planner-app
-
-Deployed Web Application URL: https://kayam17.github.io/07-daily-planner-app/
+If you have any feedback or suggestions for improvement, please feel free to get in touch. Thank you for exploring my Daily Planner App project!
